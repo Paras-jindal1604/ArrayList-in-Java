@@ -6,11 +6,8 @@ This repository provides a comprehensive guide to using ArrayList in Java, along
 2. Basic Operations
 3. Common Methods
 4. Practice Questions
-5. Sorting an ArrayList
-6. Swapping Elements
-7. Reversing an ArrayList
-8. Conclusion
-9. Contributing
+5. Conclusion
+6. Contributing
 
 
 ### Introduction
